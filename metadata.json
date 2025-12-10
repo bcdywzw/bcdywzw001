@@ -1,0 +1,8 @@
+{
+  "name": "MuseCam - AI Interview Recorder",
+  "description": "A smart video recorder where AI acts as a silent podcast host, providing on-screen prompts to keep your conversation flowing. Features variable aspect ratios and Macaron-themed UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
